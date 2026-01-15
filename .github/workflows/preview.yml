@@ -19,7 +19,7 @@ jobs:
     steps:
       - uses: actions/github-script@v7
         env:
-          LANDSCAPE_URL: 'https://aaif.landscape2.io/'
+          LANDSCAPE_URL: 'https://aaif.landscape2.io'
           DATA_FILE: 'landscape.yml'
           LOGOS_PATH: 'hosted_logos'
           OWNER: ${{ github.event.pull_request.head.repo.owner.login }}

@@ -597,7 +597,7 @@ categories:
             description: An open protocol that enables seamless integration between LLM applications and external data sources and tools.
             homepage_url: https://modelcontextprotocol.io/
             logo: model-context-protocol.png
-            repo_url: https://github.com/modelcontextprotocol
+            repo_url: https://github.com/modelcontextprotocol/modelcontextprotocol
           - item:
             name: goose
             description: An open source, extensible AI agent that goes beyond code suggestions. Install, execute, edit, and test with any LLM.

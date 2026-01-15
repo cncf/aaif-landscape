@@ -1,0 +1,612 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/cncf/landscape2/refs/heads/main/docs/config/schema/data.schema.json
+
+categories:
+  - name: Members
+    subcategories:
+      - name: Platinum
+        items:
+          - item:
+            name: Amazon Web Services, Inc.
+            homepage_url: https://aws.amazon.com/
+            logo: amazon-web-services-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/amazon-web-services
+          - item:
+            name: Anthropic
+            homepage_url: https://www.anthropic.com/
+            logo: anthropic.svg
+            crunchbase: https://www.crunchbase.com/organization/anthropic
+          - item:
+            name: Block, Inc.
+            homepage_url: https://block.xyz/
+            logo: block-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/square
+          - item:
+            name: Bloomberg L.P.
+            homepage_url: https://www.bloomberg.com/
+            logo: bloomberg-lp.svg
+            twitter: https://twitter.com/techatbloomberg
+            crunchbase: https://www.crunchbase.com/organization/bloomberg
+          - item:
+            name: Cloudflare, Inc.
+            homepage_url: https://www.cloudflare.com/
+            logo: cloudflare-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/cloudflare
+          - item:
+            name: Google LLC
+            homepage_url: https://www.google.com/
+            logo: google-llc.svg
+            twitter: https://twitter.com/GCPcloud
+            crunchbase: https://www.crunchbase.com/organization/google
+          - item:
+            name: Microsoft Corporation
+            homepage_url: https://www.microsoft.com/
+            logo: microsoft-corporation.svg
+            twitter: https://twitter.com/Azure
+            crunchbase: https://www.crunchbase.com/organization/microsoft
+          - item:
+            name: OpenAI Inc
+            homepage_url: https://openai.com/
+            logo: openai-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/openai
+      - name: Gold
+        items:
+          - item:
+            name: Adyen N.V
+            homepage_url: https://www.adyen.com/
+            logo: adyen-nv.svg
+            crunchbase: https://www.crunchbase.com/organization/adyen
+          - item:
+            name: Akamai Technologies, Inc.
+            homepage_url: https://www.akamai.com/
+            logo: akamai-technologies-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/akamai-technologies
+          - item:
+            name: Arcade
+            homepage_url: https://arcade.dev/
+            logo: arcade.svg
+            crunchbase: https://www.crunchbase.com/organization/arcade
+          - item:
+            name: Autodesk
+            homepage_url: https://www.autodesk.com/
+            logo: autodesk.svg
+            crunchbase: https://www.crunchbase.com/organization/autodesk
+          - item:
+            name: Cisco Systems, Inc.
+            homepage_url: https://www.cisco.com/
+            logo: cisco-systems-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/cisco
+          - item:
+            name: Datadog, Inc
+            homepage_url: https://www.datadoghq.com/
+            logo: datadog-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/datadog
+          - item:
+            name: Diagrid
+            homepage_url: https://www.diagrid.io/
+            logo: diagrid.svg
+            crunchbase: https://www.crunchbase.com/organization/diagrid
+          - item:
+            name: Docker, Inc.
+            homepage_url: https://www.docker.com/
+            logo: docker-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/docker
+          - item:
+            name: Equinix Services, Inc.
+            homepage_url: https://www.equinix.com/
+            logo: equinix-member.svg
+            crunchbase: https://www.crunchbase.com/organization/equinix
+          - item:
+            name: Ericsson AB
+            homepage_url: https://www.ericsson.com/
+            logo: ericsson-ab.svg
+            crunchbase: https://www.crunchbase.com/organization/ericsson
+          - item:
+            name: International Business Machines Corporation
+            homepage_url: https://www.ibm.com/
+            logo: ibm-corporation.svg
+            twitter: https://twitter.com/IBMcloud
+            crunchbase: https://www.crunchbase.com/organization/ibm
+          - item:
+            name: JetBrains s.r.o.
+            homepage_url: https://www.jetbrains.com/
+            logo: jetbrains-sro.svg
+            crunchbase: https://www.crunchbase.com/organization/jetbrains
+          - item:
+            name: JPMorgan Chase
+            homepage_url: https://www.jpmorganchase.com/
+            logo: jpmorgan-chase.svg
+            crunchbase: https://www.crunchbase.com/organization/jpmorgan-chase-co
+          - item:
+            name: Keycard
+            homepage_url: https://keycard.tech/
+            logo: keycard.svg
+            crunchbase: https://www.crunchbase.com/organization/keycard
+          - item:
+            name: Okta Inc.
+            homepage_url: https://www.okta.com/
+            logo: okta-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/okta
+          - item:
+            name: Oracle America Inc.
+            homepage_url: https://www.oracle.com/
+            logo: oracle-america-inc.svg
+            twitter: https://twitter.com/oraclecloud
+            crunchbase: https://www.crunchbase.com/organization/oracle
+          - item:
+            name: Red Hat, Inc.
+            homepage_url: https://www.redhat.com/
+            logo: red-hat-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/red-hat
+          - item:
+            name: Runlayer
+            homepage_url: https://runlayer.com/
+            logo: runlayer.svg
+            crunchbase: https://www.crunchbase.com/organization/runlayer
+          - item:
+            name: Salesforce.com, Inc.
+            homepage_url: https://www.salesforce.com/
+            logo: salesforcecom.svg
+            crunchbase: https://www.crunchbase.com/organization/salesforce
+          - item:
+            name: SAP SE
+            homepage_url: https://www.sap.com/
+            logo: sap-se.svg
+            twitter: https://x.com/SAP
+            crunchbase: https://www.crunchbase.com/organization/sap
+          - item:
+            name: ServiceNow
+            homepage_url: https://www.servicenow.com/
+            logo: servicenow.svg
+            crunchbase: https://www.crunchbase.com/organization/service-now-com
+          - item:
+            name: Shopify Inc.
+            homepage_url: https://www.shopify.com/
+            logo: shopify-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/shopify
+          - item:
+            name: Snowflake Inc.
+            homepage_url: https://www.snowflake.com/
+            logo: snowflake-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/snowflake-computing
+          - item:
+            name: TELUS Corporation
+            homepage_url: https://www.telus.com/
+            logo: telus-corporation.svg
+            crunchbase: https://www.crunchbase.com/organization/telus
+          - item:
+            name: Temporal Technologies Inc
+            homepage_url: https://temporal.io/
+            logo: temporal-technologies-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/temporal-technologies
+          - item:
+            name: Tetrate.io
+            homepage_url: https://tetrate.io/
+            logo: tetrate-io.svg
+            crunchbase: https://www.crunchbase.com/organization/tetrate
+          - item:
+            name: Twilio
+            homepage_url: https://www.twilio.com/
+            logo: twilio.svg
+            crunchbase: https://www.crunchbase.com/organization/twilio
+          - item:
+            name: UiPath, Inc.
+            homepage_url: https://www.uipath.com/
+            logo: uipath-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/uipath
+          - item:
+            name: Workato
+            homepage_url: https://www.workato.com/
+            logo: workato.svg
+            crunchbase: https://www.crunchbase.com/organization/workato
+          - item:
+            name: Worldpay, LLC
+            homepage_url: https://www.worldpay.com/
+            logo: worldpay-llc.svg
+            crunchbase: https://www.crunchbase.com/organization/worldpay
+      - name: Silver
+        items:
+          - item:
+            name: 1Password
+            homepage_url: https://1password.com/
+            logo: 1password.svg
+            crunchbase: https://www.crunchbase.com/organization/1password
+          - item:
+            name: AG2
+            homepage_url: https://ag2.ai/
+            logo: ag2.svg
+            crunchbase: https://www.crunchbase.com/organization/ag2
+          - item:
+            name: Agent Field
+            homepage_url: https://agentfield.ai/
+            logo: agent-field.svg
+            crunchbase: https://www.crunchbase.com/organization/agent-field
+          - item:
+            name: AI Robotix
+            homepage_url: https://airobotix.com/
+            logo: ai-robotix.svg
+          - item:
+            name: AIERA Inc
+            homepage_url: https://aiera.com/
+            logo: aiera-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/aiera-inc
+          - item:
+            name: Airbyte
+            homepage_url: https://airbyte.com/
+            logo: airbyte.svg
+            crunchbase: https://www.crunchbase.com/organization/airbyte
+          - item:
+            name: AlloIA
+            homepage_url: https://alloia.com/
+            logo: alloia.svg
+          - item:
+            name: Alpic
+            homepage_url: https://alpic.io/
+            logo: alpic.svg
+            crunchbase: https://www.crunchbase.com/organization/alpic
+          - item:
+            name: Alterion AI
+            homepage_url: https://alterion.ai/
+            logo: alterion-ai.svg
+          - item:
+            name: AltLayer
+            homepage_url: https://altlayer.io/
+            logo: altlayer.svg
+            crunchbase: https://www.crunchbase.com/organization/altlayer
+          - item:
+            name: Apify
+            homepage_url: https://apify.com/
+            logo: apify.svg
+            crunchbase: https://www.crunchbase.com/organization/apify
+          - item:
+            name: ASAPP
+            homepage_url: https://www.asapp.com/
+            logo: asapp.svg
+            crunchbase: https://www.crunchbase.com/organization/asapp
+          - item:
+            name: BlueRock Security
+            homepage_url: https://bluerocksecurity.com/
+            logo: bluerock-security.svg
+            crunchbase: https://www.crunchbase.com/organization/bluerock-io
+          - item:
+            name: Capsule Security
+            homepage_url: https://capsulesecurity.com/
+            logo: capsule-security.svg
+          - item:
+            name: Cequence
+            homepage_url: https://www.cequence.ai/
+            logo: cequence.svg
+            crunchbase: https://www.crunchbase.com/organization/cequence-security
+          - item:
+            name: ChainOpera AI
+            homepage_url: https://chainopera.ai/
+            logo: chainopera.svg
+            crunchbase: https://www.crunchbase.com/organization/chainopera-ai
+          - item:
+            name: Chronosphere, Inc.
+            homepage_url: https://chronosphere.io/
+            logo: chronosphere-member.svg
+            crunchbase: https://www.crunchbase.com/organization/chronosphere
+          - item:
+            name: Clutch Security
+            homepage_url: https://clutchsecurity.com/
+            logo: clutch-security.svg
+            crunchbase: https://www.crunchbase.com/organization/clutch-security
+          - item:
+            name: Corridor
+            homepage_url: https://corridor.io/
+            logo: corridor.svg
+            crunchbase: https://www.crunchbase.com/organization/corridor
+          - item:
+            name: Cosmonic
+            homepage_url: https://cosmonic.com/
+            logo: cosmonic.svg
+            crunchbase: https://www.crunchbase.com/organization/cosmonic
+          - item:
+            name: Data Science Dojo
+            homepage_url: https://datasciencedojo.com/
+            logo: data-science-dojo.svg
+            crunchbase: https://www.crunchbase.com/organization/data-science-dojo
+          - item:
+            name: Dataiku
+            homepage_url: https://www.dataiku.com/
+            logo: dataiku.svg
+            crunchbase: https://www.crunchbase.com/organization/dataiku
+          - item:
+            name: Datastrato
+            homepage_url: https://datastrato.ai/
+            logo: datastrato.svg
+            crunchbase: https://www.crunchbase.com/organization/datastrato
+          - item:
+            name: Denver Technologies (Warp)
+            homepage_url: https://www.warp.dev/
+            logo: denver-technologies-warp.svg
+            crunchbase: https://www.crunchbase.com/organization/warp-664e
+          - item:
+            name: Descope
+            homepage_url: https://www.descope.com/
+            logo: descope.svg
+            crunchbase: https://www.crunchbase.com/organization/descope
+          - item:
+            name: Elasticsearch, Inc.
+            homepage_url: https://www.elastic.co/
+            logo: elasticsearch-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/elasticsearch
+          - item:
+            name: Eve Security
+            homepage_url: https://evesecurity.com/
+            logo: eve-security.svg
+            crunchbase: https://www.crunchbase.com/organization/eve-security
+          - item:
+            name: Future of Life Institute
+            homepage_url: https://futureoflife.org/
+            logo: future-of-life-institute.svg
+            crunchbase: https://www.crunchbase.com/organization/future-of-life-institute
+          - item:
+            name: Geniez
+            homepage_url: https://geniez.ai/
+            logo: geniez.svg
+            crunchbase: https://www.crunchbase.com/organization/geniez-ai
+          - item:
+            name: Golf
+            homepage_url: https://golf.dev/
+            logo: golf.svg
+            crunchbase: https://www.crunchbase.com/organization/golf-9e07
+          - item:
+            name: Gravitee
+            homepage_url: https://www.gravitee.io/
+            logo: gravitee.svg
+          - item:
+            name: Guru Technologies Inc
+            homepage_url: https://www.getguru.com/
+            logo: guru-technologies-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/guru-technologies
+          - item:
+            name: Hugging Face Inc
+            homepage_url: https://huggingface.co/
+            logo: hugging-face-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/hugging-face
+          - item:
+            name: Juicedata Inc
+            homepage_url: https://juicefs.com/
+            logo: juicedata-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/juicefs
+          - item:
+            name: Kite AI
+            homepage_url: https://kite.ai/
+            logo: kite-ai.svg
+            crunchbase: https://www.crunchbase.com/organization/kite-ai
+          - item:
+            name: Kubermatic GmbH
+            homepage_url: https://www.kubermatic.com/
+            logo: kubermatic-gmbh.svg
+            crunchbase: https://www.crunchbase.com/organization/kubermatic
+          - item:
+            name: KYXSTART
+            homepage_url: https://kyxstart.com/
+            logo: kyxstart.svg
+          - item:
+            name: LanceDB
+            homepage_url: https://lancedb.com/
+            logo: lancedb.svg
+            crunchbase: https://www.crunchbase.com/organization/lancedb
+          - item:
+            name: Langdock
+            homepage_url: https://langdock.com/
+            logo: langdock.svg
+            crunchbase: https://www.crunchbase.com/organization/langdock
+          - item:
+            name: Liquid Reply
+            homepage_url: https://www.reply.com/liquid-reply/
+            logo: liquid-reply.svg
+            crunchbase: https://www.crunchbase.com/organization/liquid-reply
+          - item:
+            name: MACH Alliance
+            homepage_url: https://machalliance.org/
+            logo: mach-alliance.svg
+            crunchbase: https://www.crunchbase.com/organization/mach-alliance
+          - item:
+            name: Mezmo
+            homepage_url: https://www.mezmo.com/
+            logo: mezmo.svg
+          - item:
+            name: MindsDB
+            homepage_url: https://mindsdb.com/
+            logo: mindsdb.svg
+            crunchbase: https://www.crunchbase.com/organization/mindsdb
+          - item:
+            name: Mirantis, Inc.
+            homepage_url: https://www.mirantis.com/
+            logo: mirantis-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/mirantis
+          - item:
+            name: Mirror Security
+            homepage_url: https://mirrorsecurity.io/
+            logo: mirror-security.svg
+            crunchbase: https://www.crunchbase.com/organization/mirror-security
+          - item:
+            name: Mistral AI
+            homepage_url: https://mistral.ai/
+            logo: mistral-ai.svg
+            crunchbase: https://www.crunchbase.com/organization/mistral-ai
+          - item:
+            name: MoonLight Marketing
+            homepage_url: https://moonlightmarketing.io/
+            logo: moonlight-marketing.svg
+            crunchbase: https://www.crunchbase.com/organization/moonlight-marketing
+          - item:
+            name: MotherDuck
+            homepage_url: https://motherduck.com/
+            logo: motherduck.svg
+            crunchbase: https://www.crunchbase.com/organization/motherduck
+          - item:
+            name: Neo4j, Inc.
+            homepage_url: https://neo4j.com/
+            logo: neo4j-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/neo-technology
+          - item:
+            name: NinjaTech AI Inc
+            homepage_url: https://ninjatech.ai/
+            logo: ninjatech-ai-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/ninjatech-ai
+          - item:
+            name: NuStudio.AI
+            homepage_url: https://nustudio.ai/
+            logo: nustudio-ai.svg
+            crunchbase: https://www.crunchbase.com/organization/nuscale-technologies
+          - item:
+            name: Nx
+            homepage_url: https://nx.dev/
+            logo: nx.svg
+            crunchbase: https://www.crunchbase.com/organization/nx
+          - item:
+            name: Obot AI, Inc.
+            homepage_url: https://obot.ai/
+            logo: obot-ai-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/obot-ai
+          - item:
+            name: Ocean Security
+            homepage_url: https://oceansecurity.io/
+            logo: ocean-security.svg
+          - item:
+            name: Pallas Security
+            homepage_url: https://pallassecurity.com/
+            logo: pallas-security.svg
+            crunchbase: https://www.crunchbase.com/organization/pallas-security
+          - item:
+            name: Palma.ai
+            homepage_url: https://palma.ai/
+            logo: palma-ai.svg
+          - item:
+            name: Prefect
+            homepage_url: https://www.prefect.io/
+            logo: prefect.svg
+          - item:
+            name: Pydantic
+            homepage_url: https://pydantic.dev/
+            logo: pydantic.svg
+            crunchbase: https://www.crunchbase.com/organization/pydantic-services
+          - item:
+            name: Resolve Technology
+            homepage_url: https://resolvetech.io/
+            logo: resolve-technology.svg
+            crunchbase: https://www.crunchbase.com/organization/resolve-technology
+          - item:
+            name: RX-M, LLC
+            homepage_url: https://rx-m.com/
+            logo: rx-m-llc.svg
+            crunchbase: https://www.crunchbase.com/organization/rx-m
+          - item:
+            name: Safe Software Inc
+            homepage_url: https://www.safe.com/
+            logo: safe-software-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/safe-software
+          - item:
+            name: Scalekit
+            homepage_url: https://scalekit.com/
+            logo: scalekit.svg
+            crunchbase: https://www.crunchbase.com/organization/scalekit
+          - item:
+            name: Shinkai
+            homepage_url: https://shinkai.com/
+            logo: shinkai.svg
+            crunchbase: https://www.crunchbase.com/organization/shinkai
+          - item:
+            name: Solo.io, Inc.
+            homepage_url: https://www.solo.io/
+            logo: solo-io-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/solo-io
+          - item:
+            name: Spectro Cloud, Inc.
+            homepage_url: https://www.spectrocloud.com/
+            logo: spectro-cloud-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/spectro-cloud
+          - item:
+            name: Stacklok
+            homepage_url: https://stacklok.com/
+            logo: stacklok.svg
+            crunchbase: https://www.crunchbase.com/organization/stacklok
+          - item:
+            name: StackQL Studios
+            homepage_url: https://stackql.io/
+            logo: stackql-studios.svg
+            crunchbase: https://www.crunchbase.com/organization/stackql-studios
+          - item:
+            name: SUSE LLC
+            homepage_url: https://www.suse.com/
+            logo: suse-llc.svg
+            crunchbase: https://www.crunchbase.com/organization/suse
+          - item:
+            name: TensorOpera AI
+            homepage_url: https://tensoropera.ai/
+            logo: tensoropera-ai.svg
+            crunchbase: https://www.crunchbase.com/organization/tensoropera
+          - item:
+            name: Uber Technologies Inc.
+            homepage_url: https://www.uber.com/
+            logo: uber-technologies-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/uber
+          - item:
+            name: Ultra Security
+            homepage_url: https://ultrasecurity.io/
+            logo: ultra-security.svg
+          - item:
+            name: USI
+            homepage_url: https://usi.io/
+            logo: usi.svg
+            crunchbase: https://www.crunchbase.com/organization/usi
+          - item:
+            name: Vstorm
+            homepage_url: https://vstorm.co/
+            logo: vstorm.svg
+            crunchbase: https://www.crunchbase.com/organization/vstorm
+          - item:
+            name: WorkOS
+            homepage_url: https://workos.com/
+            logo: workos.svg
+            crunchbase: https://www.crunchbase.com/organization/workos
+          - item:
+            name: XTrace
+            homepage_url: https://xtrace.io/
+            logo: xtrace.svg
+          - item:
+            name: Zapier
+            homepage_url: https://zapier.com/
+            logo: zapier.svg
+            crunchbase: https://www.crunchbase.com/organization/zapier
+          - item:
+            name: zCloak Network
+            homepage_url: https://zcloak.network/
+            logo: zcloak-network.svg
+            crunchbase: https://www.crunchbase.com/organization/zcloak-network
+          - item:
+            name: Zed
+            homepage_url: https://zed.dev/
+            logo: zed.svg
+            crunchbase: https://www.crunchbase.com/organization/zed
+          - item:
+            name: ZeroClick Inc
+            homepage_url: https://zeroclick.ai/
+            logo: zeroclick-inc.svg
+            crunchbase: https://www.crunchbase.com/organization/zeroclick
+  - name: Projects
+    subcategories:
+      - name: AAIF Projects
+        items:
+          - item:
+            name: Model Context Protocol
+            description: An open protocol that enables seamless integration between LLM applications and external data sources and tools.
+            homepage_url: https://modelcontextprotocol.io/
+            logo: model-context-protocol.png
+            repo_url: https://github.com/modelcontextprotocol
+          - item:
+            name: goose
+            description: An open source, extensible AI agent that goes beyond code suggestions. Install, execute, edit, and test with any LLM.
+            homepage_url: https://block.github.io/goose/
+            logo: goose.png
+            repo_url: https://github.com/block/goose
+          - item:
+            name: AGENTS.md
+            description: A dedicated, predictable place to provide the context and instructions to help AI coding agents work on your project.
+            homepage_url: https://agents.md/
+            logo: agents-md.png
+            repo_url: https://github.com/agentsmd/agents.md

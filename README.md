@@ -1,8 +1,8 @@
 # AAIF Agentic AI Landscape
 
-The [AAIF](https://aaif.io) Agentic AI [Landscape](https://landscape.aaif.io) is intended as a map through the previously uncharted terrain of agentic technologies. This attempts to categorize most of the projects and product offerings in the cloud native space. There are many routes to deploying a cloud native application, with CNCF Projects representing a particularly well-traveled path.
+The [AAIF](https://aaif.io) Agentic AI [Landscape](https://aaif.landscape2.io/) is intended as a map through the previously uncharted terrain of agentic technologies. This attempts to categorize most of the projects and product offerings in the cloud native space. There are many routes to deploying a cloud native application, with CNCF Projects representing a particularly well-traveled path.
 
-This repository contains the data files and images required to generate the [AAIF landscape](https://landscape.aaif.io). The software that generates it can be found at the [cncf/landscape2](https://github.com/cncf/landscape2) repository. Please see its [README file](https://github.com/cncf/landscape2#landscape2) for more information about how it works.
+This repository contains the data files and images required to generate the [AAIF landscape](https://aaif.landscape2.io/). The software that generates it can be found at the [cncf/landscape2](https://github.com/cncf/landscape2) repository. Please see its [README file](https://github.com/cncf/landscape2#landscape2) for more information about how it works.
 
 ## New entries
 

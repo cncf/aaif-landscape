@@ -610,3 +610,15 @@ categories:
             homepage_url: https://agents.md/
             logo: agents-md.png
             repo_url: https://github.com/agentsmd/agents.md
+          - item:
+            name: .agents Folder
+            description: A canonical source of truth for AI coding agents.
+            homepage_url: https://agentsfolder.github.io/spec/
+            logo: agents-folder.png
+            repo_url: https://github.com/agentsfolder/spec
+          - item:
+            name: agents-cli
+            description: A cli for automatically mapping the .agents folder to proprietary AI coding agents configuration folders.
+            homepage_url: https://agentsfolder.github.io/agents-cli/
+            logo: agents-folder.png
+            repo_url: https://github.com/agentsfolder/agents-cli
